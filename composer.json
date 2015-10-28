@@ -1,0 +1,22 @@
+{
+  "name": "simplon/component_mvc",
+  "type": "component",
+  "description": "Assets required/helpful for simplon/mvc",
+  "authors": [
+    {
+      "name": "Tino Ehrich",
+      "email": "tino@bigpun.me",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "simplon/components": "*"
+  },
+  "extra": {
+    "component": {
+      "files": [
+        "vuejs/1.0.x/vue.min.js"
+      ]
+    }
+  }
+}
