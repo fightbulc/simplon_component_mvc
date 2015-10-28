@@ -15,7 +15,8 @@
   "extra": {
     "component": {
       "files": [
-        "vuejs/1.0.x/vue.min.js"
+        "vuejs/1.0.x/vue.min.js",
+        "lazysizes/1.3.x/lazysizes.min.js"
       ]
     }
   }
